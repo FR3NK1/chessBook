@@ -15,4 +15,4 @@
 [![Нажми, чтобы посмотреть видео](https://user-images.githubusercontent.com/21089435/184696425-f61729ce-deb1-4ffb-bb2f-549f802f9256.png)](https://www.youtube.com/watch?v=xhaQDVHdwfI)
 
 # Скриншоты
-![Скриншоты](https://user-images.githubusercontent.com/21089435/184700365-88ea1a82-8d90-4185-ac1e-e74f43dede45.png)
+![Скриншоты](https://user-images.githubusercontent.com/21089435/184702844-3f660c36-db27-427c-9012-ab390721f8fb.png)
